@@ -1,0 +1,7 @@
+Flask==3.0.0
+sportsdataverse==0.0.77
+pandas==2.1.4
+matplotlib==3.8.2
+mplbasketball==1.0.0
+gunicorn==21.2.0
+
